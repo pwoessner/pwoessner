@@ -4,7 +4,6 @@ Welcome to my GitHub profile!
 
 I'm an iOS developer at @SAP, passionate about all things mobile (usually related to ) and always looking to learn more about cloud & web development which I don't have the chance to regularly use in my day-to-day job.
 
-![Profile Views](https://komarev.com/ghpvc/?username=pwoessner)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/pwoessner)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/philipp-w%C3%B6ssner-344a06145/)
 
